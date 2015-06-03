@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ex1</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- hat resources-->
+    <string name="hat_none_text">None Hat</string>
+    <string name="hat_1_text">panama Hat</string>
+
+    <!-- chal8oum resources-->
+    <string name="chal8oum_none_text">None Chal8oum</string>
+    <string name="chal8oum_1_text">panama Chal8oum</string>
+
+
+</resources>
